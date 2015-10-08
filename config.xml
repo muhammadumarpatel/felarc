@@ -2,7 +2,7 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "net.moodlemoot.mootes14"
+        id        = "com.felarc.mobileapp"
         versionCode = "1"
         version   = "1">
     <name>FELARC </name>
@@ -11,7 +11,7 @@
         FELARC
     </description>
 
-    <author href="http://felarc.org" email="mdumar.p@live.com">
+    <author href="https://www.felarc.org" email="mdumar.p@live.com">
         Muhammad Umar
     </author>
 

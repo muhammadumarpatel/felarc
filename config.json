@@ -1,5 +1,5 @@
 ﻿{
-"app_id" : "net.moodlemoot.mootes14",
+"app_id" : "com.felarc.mobileapp",
 "versioncode" : "1",
 "versionname" : "1",
 "cache_expiration_time" : 3000000,
@@ -8,7 +8,7 @@
 "plugins" : ["notifications", "messages", "upload", "events", "myfiles", "contents", "participants", "grades","addcontact", "addnote", "sendmessage", "forum", "label", "url", "page", "resource", "assign"],
 "wsservice" : "moodle_mobile_app",
 "wsextservice" : "local_mobile",
-"presets" : {"url": "https://felarc.org", "username": ""},
+"presets" : {"url": "https://www.felarc.org", "username": ""},
 "sync_ws_on" : true,
 "sync_css_on" : true,
 "sync_cron": 300000,
